@@ -9,10 +9,12 @@
   "dependencies": {
     "pug": "3.0.0",
     "mongodb": "2.2.19",
-    "calendar-dates":"2.6.1"
+    "calendar-dates":"2.6.1",
+    "js-datepicker":"5.16.0"
   },
   "devDependencies": {
     "webpack": "^3.8.1",
-    "calendar-dates":"2.6.1"
+    "calendar-dates":"2.6.1",
+    "js-datepicker":"5.16.0"
   }  
 }
