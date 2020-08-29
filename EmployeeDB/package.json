@@ -8,8 +8,8 @@
   
   "dependencies": {
     "pug": "3.0.0",
-    "stylus": "*",
-    "mongodb": "2.2.19"    
+    //"stylus": "*",
+    //"mongodb": "2.2.19"    
   },
   "devDependencies": {
     "webpack": "^3.8.1"
